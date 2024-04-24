@@ -12,10 +12,10 @@
 
 ### Detailed Steps / 자세한 단계
 
-- [ ] **(1) 프로젝트에 다음 패키지를 추가하세요.**
-  - [ ] `mongodb`
-  - [ ] `mongoose`
-- [ ] **(2) `main.js`에서 MongoDB 연결과 Mongoose를 설정하세요.**
+- [] **(1) 프로젝트에 다음 패키지를 추가하세요.**
+  - [] `mongodb`
+  - [] `mongoose`
+- [] **(2) `main.js`에서 MongoDB 연결과 Mongoose를 설정하세요.**
 - [ ] **(3) `models` 폴더를 만들고 `Subscriber` 모델을 만들어 이메일 주소를 저장하세요.**
   - [ ] `name` - 이름을 저장하는 필드
   - [ ] `email` - 이메일 주소를 저장하는 필드

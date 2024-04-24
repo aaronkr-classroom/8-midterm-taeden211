@@ -1,0 +1,17 @@
+{
+  "name": "8-midterm-taeden211",
+  "version": "1.0.0",
+  "description": "midterm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "김태겸",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "http-status-codes": "^2.3.0"
+  }
+}
